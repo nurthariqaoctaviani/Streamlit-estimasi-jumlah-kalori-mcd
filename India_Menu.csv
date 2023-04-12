@@ -1,0 +1,142 @@
+Menu_Category,Menu_Items,Energy,Protein,Total_fat,Cholesterols,Total_carbohydrate,Total_Sugars
+Regular Menu,McVeggieâ„¢ Burger,402.05,10.24,13.83,2.49,56.54,7.9
+Regular Menu,McAloo Tikki BurgerÂ®,339.52,8.5,11.31,1.47,50.27,7.05
+Regular Menu,McSpicyâ„¢ Paneer Burger,652.76,20.29,39.45,21.85,52.33,8.35
+Regular Menu,Spicy Paneer Wrap,674.68,20.96,39.1,40.93,59.27,3.5
+Regular Menu,American Veg Burger,512.17,15.3,23.45,25.24,56.96,7.85
+Regular Menu,Veg Maharaja Mac,832.67,24.17,37.94,36.19,93.84,11.52
+Regular Menu,Green Chilli Aloo Naan,356.09,7.91,15.08,9.45,46.36,4.53
+Regular Menu,Pizza Puff,228.21,5.45,11.44,5.17,24.79,2.73
+Regular Menu,Mc chicken Burger,400.8,15.66,15.7,31.17,47.98,5.53
+Regular Menu,FILLET-O-FISH Burger,348.11,15.44,14.16,32.83,38.85,5.58
+Regular Menu,Mc Spicy Chicken Burger,451.92,21.46,19.36,66.04,46.08,5.88
+Regular Menu,Spicy Chicken Wrap,567.19,23.74,26.89,87.63,57.06,2.52
+Regular Menu,Chicken Maharaja Mac,689.12,34.0,36.69,81.49,55.39,8.92
+Regular Menu,American Chicken Burger,446.95,20.29,22.94,47.63,38.54,7.48
+Regular Menu,Chicken Kebab Burger,357.05,8.64,14.02,1.51,47.9,5.08
+Regular Menu,Green Chilli Kebab naan,230.95,5.67,9.32,8.74,31.06,3.64
+Regular Menu,Mc Egg Masala Burger,290.42,12.45,12.27,213.09,32.89,4.89
+Regular Menu,Mc Egg Burger for Happy Meal,282.98,12.29,12.21,213.09,31.32,4.66
+Regular Menu,Ghee Rice with Mc Spicy Fried Chicken 1 pc,720.3,26.91,29.2,31.32,77.47,3.28
+Regular Menu,McSpicy Fried Chicken 1 pc,248.76,17.33,14.29,31.11,12.7,0.58
+Regular Menu,4 piece Chicken McNuggets,169.68,10.03,9.54,24.66,10.5,0.32
+Regular Menu,6 piece Chicken McNuggets,254.52,15.04,14.3,36.99,15.74,0.48
+Regular Menu,9 piece Chicken McNuggets,381.77,22.56,21.46,55.48,23.62,0.72
+Regular Menu,2 piece Chicken Strips,164.44,10.17,12.38,30.1,2.68,0.29
+Regular Menu,3 piece Chicken Strips,246.65,15.26,18.57,45.15,4.02,0.44
+Regular Menu,5 piece Chicken Strips,411.09,25.43,28.54,6.7,0.73,0.72
+Regular Menu,Regular Fries,224.59,3.38,10.39,0.77,27.08,0.39
+Regular Menu,Medium Fries,317.92,4.79,14.7,1.09,38.34,0.55
+Regular Menu,Large Fries,449.17,6.76,20.77,1.54,54.16,0.77
+Regular Menu,Regular Wedges,204.65,3.97,7.15,0.97,28.74,0.48
+Regular Menu,Medium Wedges,280.05,5.44,9.79,1.33,39.33,0.66
+Regular Menu,Large Wedges,387.76,7.53,13.55,1.84,54.46,0.92
+Regular Menu,L1 Coffee,6.8,0.0,0.0,0.0,1.7,0.0
+Regular Menu,L1 Coffee with milk,35.8,1.0,2.0,6.0,1.6,3.45
+Regular Menu,Double Chocochips Muffin,341.68,5.13,17.28,15.96,40.13,29.44
+Regular Menu,Vanilla Chocochips Muffin,329.29,4.48,15.46,78.52,40.13,29.6
+Breakfast Menu,Veg McMuffin,309.35,10.22,11.78,25.31,38.86,3.02
+Breakfast Menu,Double Cheese McMuffin,273.78,9.58,12.82,37.75,29.0,2.59
+Breakfast Menu,Spicy Egg McMuffin,278.27,11.49,11.81,212.61,31.37,2.63
+Breakfast Menu,Sausage Mc Muffin,281.44,16.25,10.81,53.02,28.62,2.38
+Breakfast Menu,Sausage Mc Muffin with egg,290.42,22.46,15.94,264.8,28.87,2.61
+Breakfast Menu,Egg McMuffin,283.46,14.05,12.31,233.3,28.12,2.38
+Breakfast Menu,Hot Cake with maple syrup,432.98,8.6,14.02,28.14,68.01,25.72
+Breakfast Menu,Hash Brown,140.29,1.93,7.32,0.64,15.63,0.32
+Breakfast Menu,Espresso,12.87,0.52,0.03,0.27,2.55,0.13
+Breakfast Menu,Espresso Machiato,44.98,2.09,2.02,6.27,4.97,2.5
+Breakfast Menu,Americano (S),12.87,0.52,0.03,0.27,2.55,0.13
+Breakfast Menu,Americano (R),23.07,0.94,0.05,0.48,4.57,0.24
+Breakfast Menu,Americano (L),26.71,1.09,0.06,0.55,5.3,0.28
+Breakfast Menu,Cappuccino (S),125.25,6.02,7.01,21.27,11.02,8.4
+Breakfast Menu,Cappuccino (R),183.61,8.79,10.02,30.48,16.67,12.05
+McCafe Menu,Cappuccino (L),219.36,10.51,12.03,36.55,19.81,14.45
+McCafe Menu,Latte (S),147.72,7.12,8.41,25.47,12.71,10.06
+McCafe Menu,Latte (R),190.03,9.1,10.42,31.68,17.15,12.52
+McCafe Menu,Latte (L),232.2,11.14,12.82,38.95,20.77,15.4
+McCafe Menu,Flat White (S),166.99,8.06,9.6,29.07,14.16,11.47
+McCafe Menu,Flat White (R),215.72,10.36,12.02,36.48,19.08,14.41
+McCafe Menu,Flat White (L),251.47,12.08,14.02,42.55,22.22,16.81
+McCafe Menu,Mocha (S),185.85,7.15,8.2,24.43,22.59,17.57
+McCafe Menu,Mocha (R),244.0,8.99,9.91,29.52,31.72,23.56
+McCafe Menu,Mocha (L),302.02,10.88,12.01,35.67,40.04,29.96
+McCafe Menu,Babycino,143.5,3.87,4.38,12.27,22.85,18.53
+McCafe Menu,Hot Chocolate (S),239.42,6.73,7.77,22.03,37.08,30.31
+McCafe Menu,Hot Chocolate (R),296.81,7.7,8.76,24.59,48.41,39.24
+McCafe Menu,Hot Chocolate (L),383.29,11.01,12.84,36.67,58.43,47.96
+McCafe Menu,Premium Dark Hot Chocolate,214.21,6.15,5.96,14.73,33.04,25.73
+McCafe Menu,Double Dark Hot Chocolate,255.78,6.87,6.32,14.83,41.29,31.81
+McCafe Menu,English Breakfast (S),9.93,0.56,0.28,2.79,0.28,1.4
+McCafe Menu,English Breakfast (R),11.75,0.66,0.33,3.3,0.33,1.65
+McCafe Menu,English Breakfast (L),16.23,0.91,0.46,4.56,0.46,2.28
+McCafe Menu,Moroccon Mint Green Tea (S),6.25,0.33,0.28,2.79,2.79,1.4
+McCafe Menu,Moroccon Mint Green Tea (R),7.39,0.4,0.33,3.3,3.3,1.65
+McCafe Menu,Moroccon Mint Green Tea (L),10.21,0.55,0.46,4.56,4.56,2.28
+McCafe Menu,Strawberry Green Tea (S),7.03,0.47,0.28,2.79,2.79,1.4
+McCafe Menu,Strawberry Green Tea (R),8.32,0.56,0.33,3.3,3.3,1.65
+McCafe Menu,Strawberry Green Tea (L),11.49,0.78,0.46,4.56,4.56,2.28
+McCafe Menu,Lemon Ice Tea,121.86,0.27,0.17,1.65,30.59,26.53
+McCafe Menu,Strawberry Ice Tea,94.95,0.24,0.16,1.57,24.17,21.1
+McCafe Menu,Green Apple Ice Tea,94.94,0.24,0.16,1.57,24.17,20.75
+McCafe Menu,Iced Coffee,185.34,4.36,4.45,12.13,31.88,26.95
+McCafe Menu,Cold Coffee Frappe,331.17,4.98,14.73,9.18,45.39,35.57
+McCafe Menu,Mocha Frappe,397.98,5.49,15.01,9.42,60.93,47.55
+McCafe Menu,Chocolate Oreo Frappe,481.11,6.03,18.89,9.36,72.51,55.14
+McCafe Menu,Strawberry Shake,255.51,3.67,7.44,8.39,44.07,37.42
+McCafe Menu,Chocolate Shake,270.9,4.16,7.7,8.39,46.76,37.78
+McCafe Menu,Mango Smoothie,231.44,3.21,3.63,9.89,46.25,38.87
+McCafe Menu,Mixed Berry Smoothie,235.43,3.33,3.59,9.99,47.16,43.0
+McCafe Menu,Raw Mango Cooler,102.38,0.14,0.04,0.4,25.18,21.06
+McCafe Menu,Mix Berry Cooler,103.85,0.16,0.04,0.4,25.56,21.25
+McCafe Menu,Sweet Lime Beverage,128.21,0.07,0.08,0.0,31.72,28.72
+McCafe Menu,Iced Americano,150.85,3.59,3.57,9.76,26.01,21.58
+McCafe Menu,American Mud Pie Shake,398.19,5.67,12.77,10.89,64.75,53.4
+McCafe Menu,Soft serve cone,85.73,1.99,1.82,4.75,15.23,10.68
+McCafe Menu,McSwirl ChocoDip,160.14,2.71,7.14,5.71,20.92,15.39
+McCafe Menu,Regular Soft Serve: Hot Fudge,121.64,2.25,4.02,5.85,19.11,17.07
+McCafe Menu,Medium Soft Serve: Hot Fudge,197.45,3.49,6.87,8.55,30.42,27.01
+McCafe Menu,Regular Soft Serve: Strawberry,100.99,1.54,1.77,4.85,19.78,17.66
+McCafe Menu,Medium Soft Serve: Strawberry,156.14,2.05,2.36,6.55,31.77,28.2
+McCafe Menu,Regular Soft Serve: Brownie with Hot Fudge,205.26,3.2,5.45,6.04,35.26,20.75
+McCafe Menu,Medium Soft Serve: Brownie with Hot Fudge,311.39,4.65,7.46,7.78,55.24,27.94
+McCafe Menu,Regular Blackforest,237.89,3.22,5.47,6.19,43.42,27.79
+McCafe Menu,Medium Blackforest,429.95,5.42,9.76,9.23,79.04,48.45
+Desserts Menu,Small McFlurry - Oreo,116.36,2.05,3.7,4.8,18.69,14.49
+Desserts Menu,Regular McFlurry - Oreo,209.39,3.58,6.81,8.0,33.42,25.35
+Gourmet Menu,American Triple Cheese Chicken,457.94,24.43,22.65,71.23,37.45,7.64
+Gourmet Menu,American Triple Cheese Veg,524.69,19.54,23.16,48.74,56.24,7.9
+Gourmet Menu,Cheese Lava Burger,671.06,14.99,33.48,33.21,74.25,16.27
+Gourmet Menu,Chicken Cheese Lava Burger,834.36,27.37,45.18,73.11,76.03,16.75
+Gourmet Menu,Chunky Chipotle American Burger Chicken,641.36,39.47,31.51,110.37,46.24,9.16
+Gourmet Menu,McSpicy Premium Chicken Burger,622.25,31.49,34.65,302.61,43.6,6.07
+Gourmet Menu,McSpicy Premium Veg Burger,634.71,22.44,39.21,43.68,46.0,7.57
+Gourmet Menu,Piri piri Mc Spicy Chicken Burger,443.4,25.63,17.3,64.19,43.29,9.29
+Gourmet Menu,Piri piri Mc Spicy Veg Burger,517.98,11.97,24.53,8.1,58.87,12.87
+Gourmet Menu,Cheesy Veg Nuggets (6pc),252.29,8.48,13.09,20.03,23.6,1.31
+Gourmet Menu,Cheesy Veg Nuggets (9pc),378.43,12.72,19.63,30.05,35.4,1.96
+Beverages Menu,Small Coca-Cola,109.56,0.0,0.0,0.0,27.39,27.39
+Beverages Menu,Medium Coca-Cola,151.36,0.0,0.0,0.0,37.84,37.84
+Beverages Menu,Large Coca-Cola,217.36,0.0,0.0,0.0,54.34,54.34
+Beverages Menu,Small Fanta Oragne,129.48,0.0,0.0,0.0,32.37,32.37
+Beverages Menu,Medium Fanta Orange,178.88,0.0,0.0,0.0,44.72,44.72
+Beverages Menu,Large Fanta Oragne,256.88,0.0,0.0,0.0,64.22,64.22
+Beverages Menu,Small Thums-up,99.6,0.0,0.0,0.0,24.9,24.9
+Beverages Menu,Medium Thums-up,137.6,0.0,0.0,0.0,34.4,34.4
+Beverages Menu,Large Thums-up,197.6,0.0,0.0,0.0,49.4,49.4
+Beverages Menu,Small Sprite,119.52,0.0,0.0,0.0,29.88,29.88
+Beverages Menu,Medium Sprite,165.12,0.0,0.0,0.0,41.28,41.28
+Beverages Menu,Large Sprite,237.12,0.0,0.0,0.0,59.28,59.28
+Beverages Menu,Coke Float,138.76,1.52,1.75,4.7,29.22,28.23
+Beverages Menu,Fanta Float,151.56,1.52,1.75,4.7,32.42,31.43
+Beverages Menu,Sprite Float,145.16,1.52,1.75,4.7,30.82,29.83
+Beverages Menu,Coke Zero Can,0.99,0.0,0.0,0.0,0.0,0.0
+Beverages Menu,Vedica Natural Mineral Water,0.0,0.0,0.0,0.0,0.0,0.0
+Condiments Menu,Mustard diping sauce,81.18,0.52,5.57,0.29,7.24,6.66
+Condiments Menu,BBQ diping sauce,54.89,0.26,0.49,0.25,12.36,7.65
+Condiments Menu,Chilli Sauce,8.07,0.03,0.01,0.1,1.99,1.53
+Condiments Menu,Piri Piri Mix,17.13,0.51,0.36,0.05,2.5,0.66
+Condiments Menu,Tomato Ketchup Sachets,11.23,0.08,23.45,0.08,2.63,2.33
+Condiments Menu,Maple Syrup,86.4,0.0,0.0,0.3,21.6,16.2
+Condiments Menu,Cheese Slice,51.03,3.06,3.99,13.43,0.72,0.54
+Condiments Menu,Sweet Corn,45.08,1.47,1.0,2.0,7.55,2.54
+Condiments Menu,Mixed Fruit Beverage,72.25,0.65,0.02,0.01,18.0,16.83
